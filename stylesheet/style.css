@@ -1,0 +1,52 @@
+body {
+    background-color: #263238;
+}
+h1 {
+    color: #FFFFFF;
+}
+table {
+    width: 400px; /*表の幅*/
+    height: 800px;/*表の高さ*/
+    margin-left: auto;
+    margin-right:auto;
+}
+td {
+    width: 10%;/*セルの幅*/
+    height: 5%;/*セルの高さ*/
+    background-color: #455a64;
+}
+.i{
+  background-color: #00bcd4;  /*シアン*/
+}
+.o{
+    background-color: #ffeb34;  /*黄色*/
+  }
+.t{
+  background-color: #9c27b0;  /*紫*/
+}
+.s{
+  background-color: #4caf50;  /*緑*/
+}
+.z{
+  background-color: #f44336;  /*赤*/
+}
+.j{
+  background-color: #2196f3;  /*青*/
+}
+.l{
+  background-color: #ff9800;  /*オレンジ*/
+}
+            
+/*vueの勉強用
+.error {
+    color: red;
+}
+.flip-list-move {
+    transition: transform .5s;
+}
+.alert {
+    background-color: #fcc;
+    padding:  10px;
+    border: 1px solid #f33;
+}
+*/
